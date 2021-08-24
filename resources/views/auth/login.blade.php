@@ -21,7 +21,7 @@
             <div class="p-3 w-100">
                 <div class="mb-3 text-center">
                     <a class="link-fx font-w700 font-size-h1" href="{{ url('/') }}">
-                        <span class="text-dark">GOBEL</span><span class="text-primary"> Administrativo</span>
+                        <span class="text-dark">GOBEL</span><span class="text-primary"> Salud</span>
                     </a>
                     <p class="text-uppercase font-w700 font-size-sm text-muted">Iniciar Sesión</p>
                 </div>

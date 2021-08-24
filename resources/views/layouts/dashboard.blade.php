@@ -4,17 +4,17 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
-        <title>GOBEL | Administrativo</title>
+        <title>GOBEL | Salud</title>
 
-        <meta name="description" content="GOBEL|Administrativo">
+        <meta name="description" content="GOBEL|Salud">
         <meta name="author" content="yoserp1">
         <meta name="robots" content="noindex, nofollow">
-        <meta property="og:title" content="GOBEL|Administrativo">
-        <meta property="og:site_name" content="GOBEL|Administrativo">
-        <meta property="og:description" content="GOBEL|Administrativo">
-        <meta property="og:type" content="GOBEL|Administrativo">
-        <meta property="og:url" content="GOBEL|Administrativo">
-        <meta property="og:image" content="GOBEL|Administrativo">
+        <meta property="og:title" content="GOBEL|Salud">
+        <meta property="og:site_name" content="GOBEL|Salud">
+        <meta property="og:description" content="GOBEL|Salud">
+        <meta property="og:type" content="GOBEL|Salud">
+        <meta property="og:url" content="GOBEL|Salud">
+        <meta property="og:image" content="GOBEL|Salud">
 
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">

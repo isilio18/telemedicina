@@ -24,7 +24,7 @@
                     <!-- Header -->
                     <div class="mb-2 text-center">
                         <a class="link-fx font-w700 font-size-h1" href="javascript:void(0)">
-                            <span class="text-dark">GOBEL</span><span class="text-primary"> Admin</span>
+                            <span class="text-dark">GOBEL</span><span class="text-primary"> Salud</span>
                         </a>
                         <p class="text-uppercase font-w700 font-size-sm text-muted">Selección de Periodo</p>
                     </div>

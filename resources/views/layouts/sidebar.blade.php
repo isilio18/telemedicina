@@ -21,7 +21,7 @@
                     <span class="text-white-75">G</span><span class="text-white">A</span>
                 </span>
                 <span class="smini-hidden">
-                    <span class="text-white">GOBEL</span><span class="text-white-75"> Admin</span> <span class="text-white font-size-base font-w400"></span>
+                    <span class="text-white">GOBEL</span><span class="text-white-75"> Salud</span> <span class="text-white font-size-base font-w400"></span>
                 </span>
             </a>
             <!-- END Logo -->
